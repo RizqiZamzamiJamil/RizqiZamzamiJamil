@@ -28,15 +28,6 @@ Fullstack Web Developer | Laravel • React • Vue
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RizqiZamzamiJamil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizqiZamzamiJamil&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📊 GitHub Summary
 
 <p align="center">
@@ -55,14 +46,14 @@ Fullstack Web Developer | Laravel • React • Vue
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Public Projects
 
 | Project | Description | Tech |
 |---|---|---|
 | Portfolio | Personal portfolio website | React |
 | Cinema List | Movie listing application | Vue |
 | Cuci Sepatu Si Launsh | Web-based shoe cleaning service project | CodeIgniter 4 |
-| SPK MAUT | Decision support system using MAUT method | Vue |
+| SPK MAUT | Decision support system using MAUT method | CodeIgniter 4 |
 
 ---
 
