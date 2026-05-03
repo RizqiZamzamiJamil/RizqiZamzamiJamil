@@ -5,7 +5,7 @@ Fullstack Web Developer | Laravel • React • Vue
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Laravel+%7C+React+%7C+Next.js;Building+clean+and+useful+web+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Laravel+%7C+React+%7C+Vue;Building+clean+and+useful+web+applications" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,23 +28,29 @@ Fullstack Web Developer | Laravel • React • Vue
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RizqiZamzamiJamil&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RizqiZamzamiJamil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizqiZamzamiJamil&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=RizqiZamzamiJamil&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Summary
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizqiZamzamiJamil&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RizqiZamzamiJamil&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RizqiZamzamiJamil&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RizqiZamzamiJamil&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RizqiZamzamiJamil&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RizqiZamzamiJamil&theme=tokyonight&utcOffset=7" />
 </p>
 
 ---
