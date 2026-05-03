@@ -23,7 +23,7 @@ Fullstack Web Developer | Laravel • React • Vue
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,vue,tailwind,bootstrap,mysql,postgresql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,vue,tailwind,bootstrap,mysql,git,github,vscode,postman" />
 </p>
 
 ---
@@ -53,10 +53,10 @@ Fullstack Web Developer | Laravel • React • Vue
 
 | Project | Description | Tech |
 |---|---|---|
-| Portfolio | Personal portfolio website | JavaScript |
+| Portfolio | Personal portfolio website | React |
 | Cinema List | Movie listing application | Vue |
-| Cuci Sepatu Si Launsh | Web-based shoe cleaning service project | PHP |
-| SPK MAUT | Decision support system using MAUT method | JavaScript |
+| Cuci Sepatu Si Launsh | Web-based shoe cleaning service project | CodeIgniter 4 |
+| SPK MAUT | Decision support system using MAUT method | Vue |
 
 ---
 
