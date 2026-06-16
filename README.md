@@ -24,7 +24,7 @@ Fullstack Web Developer | Laravel • React • Vue
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,vue,tailwind,bootstrap,mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,vue,next,tailwind,bootstrap,mysql,git,github,vscode,postman" />
 </p>
 
 ---
